@@ -18,7 +18,8 @@ aiohttp	For asynchronous API calls
 httpx	Modern alternative to requests, supports async
 
 We’ll use requests in examples because it’s beginner-friendly.
-#Example
+# Example
+
 🧱 Basic HTTP Methods (Using requests)
 1. ✅ GET Request – Fetch data from a URL
 python
