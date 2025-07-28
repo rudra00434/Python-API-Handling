@@ -1,0 +1,58 @@
+{
+  "data": {
+    "cell": "(896)-589-7916",
+    "dob": {
+      "age": 42,
+      "date": "1980-09-25T14:49:43.525Z"
+    },
+    "email": "cohen.kumar@example.com",
+    "gender": "male",
+    "id": 72,
+    "location": {
+      "city": "Hamilton",
+      "coordinates": {
+        "latitude": "-27.4776",
+        "longitude": "162.0555"
+      },
+      "country": "New Zealand",
+      "postcode": 96606,
+      "state": "Marlborough",
+      "street": {
+        "name": "Madras Street",
+        "number": 1501
+      },
+      "timezone": {
+        "description": "Central Time (US & Canada), Mexico City",
+        "offset": "-6:00"
+      }
+    },
+    "login": {
+      "md5": "92e33e2b88449a3db2e4e0a3a19a09fa",
+      "password": "animal",
+      "salt": "OIFBJCNH",
+      "sha1": "c38e61a03ec59d36798d0626d73fb64b0e431f77",
+      "sha256": "f5162a8f3459aec6add03a463a8cbdcd45abb8fbff8acf603d1a9c83302c7500",
+      "username": "blueswan153",
+      "uuid": "5508de3c-c0d9-4288-88bb-c215f2c77d5a"
+    },
+    "name": {
+      "first": "Cohen",
+      "last": "Kumar",
+      "title": "Mr"
+    },
+    "nat": "NZ",
+    "phone": "(698)-247-1783",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/21.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    },
+    "registered": {
+      "age": 17,
+      "date": "2006-02-15T17:17:15.115Z"
+    }
+  },
+  "message": "Random user fetched successfully",
+  "statusCode": 200,
+  "success": true
+}
