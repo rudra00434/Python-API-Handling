@@ -29,4 +29,8 @@ We’ll use requests in examples because it’s beginner-friendly.
   data = response.json()
   
   print(data)
+  
+  # Code Snippet
+  <img width="900" height="900" alt="123" src="https://github.com/user-attachments/assets/8165f00d-7fa8-41a1-859c-8bc3a28f1b99" />
+
 
